@@ -1,0 +1,16 @@
+{
+  "name": "RGBLED",
+  "keywords": "RGBLED,RGB,LED,3color",
+  "description": "A library for RGB LED easy control",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/amirmahdi-boom/RGBled_library"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "espressif8266"
+  ]
+}
